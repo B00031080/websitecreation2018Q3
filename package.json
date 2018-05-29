@@ -1,0 +1,22 @@
+{
+  "name": "websitecreation2018q3",
+  "version": "0.0.0",
+  "description": "Small demo app for a class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B00031080/websitecreation2018Q3.git"
+  },
+  "author": "B00031080",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B00031080/websitecreation2018Q3/issues"
+  },
+  "homepage": "https://github.com/B00031080/websitecreation2018Q3#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
